@@ -1,8 +1,8 @@
 info:
   title: 我的云盘 #标题
   logo: "" #网站logo 如果填写,则会替换掉默认的
-  footer_text: Xhofe's Blog #网页底部文字
-  footer_url: https://www.nn.ci #网页底部文字链接
+  footer_text: 大美一高 #网页底部文字
+  footer_url: https://www.ylyg.ml #网页底部文字链接
   music_img: https://img.xhofe.top/2020/12/19/0f8b57866bdb5.gif #预览音乐文件时的图片
   check_update: true #前端是否显示更新
   script: #自定义脚本,可以是脚本的链接，也可以直接是脚本内容
